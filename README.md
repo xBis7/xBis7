@@ -30,9 +30,17 @@ Here are some ideas to get you started:
 
 <br></br>
 
-
+<p>
+  
+  Hello there! My name is Christos Bisias. I am always learning, always curious and always trying to improve myself.
   
   <img height="350px" width="430px" src="https://user-images.githubusercontent.com/74301312/131981297-9e720685-8938-4d95-8666-7b499ca8232e.gif" />
+  
+</p>
+
+
+  
+ 
   
 
 
