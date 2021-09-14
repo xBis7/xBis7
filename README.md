@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 <br></br>
 
   Undergraduate student at University of Peloponnese. Passionate about coding and learning new technologies. 
-  Feel free to contact me for any freelancing or collaboration.
+  <br></br>
+  Feel free to contact me for 
+  <li>help</li>
+  <li>freelancing</li>
+  <li>collaboration</li>
 
 <br></br>
   
