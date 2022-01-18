@@ -1,4 +1,4 @@
-### Hi there, I'm Xristos 👋 
+### Hi there, I'm Christos 👋 
 <hr>
 
 <!--
