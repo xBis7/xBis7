@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br></br>
 
-  Undergraduate student at University of Peloponnese. Passionate about coding and learning new technologies. 
+  I mainly focus on backend work. I'm very passionate about software engineering and always eager to learn new technologies. 
   <br></br>
   Feel free to contact me for 
   <li>help</li>
