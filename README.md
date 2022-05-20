@@ -28,8 +28,6 @@ Here are some ideas to get you started:
   <img vertical-align="center" margin="25px" src="https://visitor-badge.glitch.me/badge?page_id=${xBis7}.${xBis7}" />  
 </a>
 
-<img align="right" height="210px" width="280px" src="https://user-images.githubusercontent.com/74301312/131981297-9e720685-8938-4d95-8666-7b499ca8232e.gif" />
-
 <br></br>
 
   I'm very passionate about software engineering and always eager to learn new technologies. 
