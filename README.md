@@ -14,7 +14,7 @@
 
   I'm very passionate about software engineering and always eager to learn something new. 
   <br></br>
-  I mainly focus on backend work. I'm currently contributing to open source projects.
+  I mainly focus on backend work. I'm currently contributing to open source projects around the Hadoop ecosystem.
   <br></br>
   Feel free to contact me for 
   <li>help</li>
@@ -22,12 +22,4 @@
   <li>collaboration</li>
 
 <br></br>
-  
-<a href="https://github.com/xBis7/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=xBis7&theme=react&show_icons=true" />
-</a>
-<a href="https://github.com/xBis7/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBis7&theme=react&layout=compact" />
-</a>
-
 
