@@ -3,9 +3,9 @@
 
 I'm a software engineer based in Greece. I'm very passionate about technology, engineering and problem solving. I always enjoy picking up new skills. 
 
-I mainly focus on backend work. I'm currently contributing to open source projects around the Hadoop ecosystem.
+I mainly focus on backend work. I'm currently contributing to various open source projects.
 
-Feel free to contact me for 
+Feel free to contact me for
 * help
 * freelancing
 * collaboration
